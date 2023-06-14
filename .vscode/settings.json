@@ -1,0 +1,8 @@
+{
+    "git.autorefresh": false,
+    "git.enabled": false,
+    "git.enableStatusBarSync": false,
+    "git.suggestSmartCommit": false,
+    "git.terminalAuthentication": false,
+    "github.gitAuthentication": false
+}
